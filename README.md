@@ -90,4 +90,4 @@ Detailed guides:
 
 ---
 
-<img src="https://imgchr.com/i/pm6Nx3D" />
+![AaStuPromot](https://s1.ax1x.com/2023/01/01/pm6Nx3D.png)
