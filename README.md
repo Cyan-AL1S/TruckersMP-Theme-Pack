@@ -89,3 +89,5 @@ Detailed guides:
 - Guide by: Cyan_Al1S
 
 ---
+
+<img src="https://imgchr.com/i/pm6Nx3D" />
